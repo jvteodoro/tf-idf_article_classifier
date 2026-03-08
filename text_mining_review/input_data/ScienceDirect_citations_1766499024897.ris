@@ -1,0 +1,743 @@
+TY  - JOUR
+T1  - A survey on blockchain-enabled federated learning and its prospects with digital twin
+AU  - Liu, Kangde
+AU  - Yan, Zheng
+AU  - Liang, Xueqin
+AU  - Kantola, Raimo
+AU  - Hu, Chuangyue
+JO  - Digital Communications and Networks
+VL  - 10
+IS  - 2
+SP  - 248
+EP  - 264
+PY  - 2024
+DA  - 2024/04/01/
+SN  - 2352-8648
+DO  - https://doi.org/10.1016/j.dcan.2022.08.001
+UR  - https://www.sciencedirect.com/science/article/pii/S2352864822001626
+KW  - Digital twin
+KW  - Artificial intelligence
+KW  - Federated learning
+KW  - Blockchain
+AB  - Digital Twin (DT) supports real time analysis and provides a reliable simulation platform in the Internet of Things (IoT). The creation and application of DT hinges on amounts of data, which poses pressure on the application of Artificial Intelligence (AI) for DT descriptions and intelligent decision-making. Federated Learning (FL) is a cutting-edge technology that enables geographically dispersed devices to collaboratively train a shared global model locally rather than relying on a data center to perform model training. Therefore, DT can benefit by combining with FL, successfully solving the "data island" problem in traditional AI. However, FL still faces serious challenges, such as enduring single-point failures, suffering from poison attacks, lacking effective incentive mechanisms. Before the successful deployment of DT, we should tackle the issues caused by FL. Researchers from industry and academia have recognized the potential of introducing Blockchain Technology (BT) into FL to overcome the challenges faced by FL, where BT acting as a distributed and immutable ledger, can store data in a secure, traceable, and trusted manner. However, to the best of our knowledge, a comprehensive literature review on this topic is still missing. In this paper, we review existing works about blockchain-enabled FL and visualize their prospects with DT. To this end, we first propose evaluation requirements with respect to security, fault-tolerance, fairness, efficiency, cost-saving, profitability, and support for heterogeneity. Then, we classify existing literature according to the functionalities of BT in FL and analyze their advantages and disadvantages based on the proposed evaluation requirements. Finally, we discuss open problems in the existing literature and the future of DT supported by blockchain-enabled FL, based on which we further propose some directions for future research.
+ER  - 
+
+TY  - JOUR
+T1  - Design and implementation of a smart infrastructure digital twin
+AU  - Gürdür Broo, Didem
+AU  - Bravo-Haro, Miguel
+AU  - Schooling, Jennifer
+JO  - Automation in Construction
+VL  - 136
+SP  - 104171
+PY  - 2022
+DA  - 2022/04/01/
+SN  - 0926-5805
+DO  - https://doi.org/10.1016/j.autcon.2022.104171
+UR  - https://www.sciencedirect.com/science/article/pii/S0926580522000449
+KW  - Data
+KW  - Digital twins
+KW  - Infrastructure
+KW  - Smart infrastructure
+KW  - Resilience
+AB  - There is a critical need to make infrastructure systems more efficient, resilient, and sustainable. Infrastructure systems provide the basis for everyday life and enable the flow of goods, information, and services within urban and regional settings. Providing data-centric solutions to improve this flow is essential. This can only be achieved if we manage to transform passive infrastructure assets into cyber-physical systems. Digital twins bring the opportunity to turn passive infrastructure assets into data-centric systems of systems. This article aims to provide a summary of existing digital twin architectures and exemplify a digital twin design and implementation. To this end, a literature review of digital twin architecture is presented in addition to a case study of a digital twin implementation in smart infrastructure. The case study focuses on a digital twin implementation of a bridge and describes in detail the physical, cyber, integration, and service layers of this implementation. Later in the article, we discuss the learnings from this case study under three main categories – systems perspective, information perspective, and organisational perspective. The findings show the importance of acquiring a systems perspective when designing digital twins today to enable interoperable systems of systems in the future. Furthermore, the findings highlight the vital necessity of data and information management while also considering the multidisciplinary aspects of digital twin design and implementation.
+ER  - 
+
+TY  - CHAP
+T1  - Chapter 5 - Intelligent digital twin reference architecture models for medical and healthcare industry
+AU  - Wang, Zhi
+AU  - El Saddik, Abdulmotaleb
+A2  - El Saddik, Abdulmotaleb
+BT  - Digital Twin for Healthcare
+PB  - Academic Press
+SP  - 97
+EP  - 119
+PY  - 2023
+DA  - 2023/01/01/
+SN  - 978-0-323-99163-6
+DO  - https://doi.org/10.1016/B978-0-32-399163-6.00010-X
+UR  - https://www.sciencedirect.com/science/article/pii/B978032399163600010X
+KW  - digital twin
+KW  - healthcare
+KW  - medical
+KW  - AI
+KW  - machine learning
+KW  - architecture
+KW  - multimedia
+KW  - IoT
+KW  - IoT edge
+KW  - cloud
+KW  - digital patient
+KW  - federated machine learning
+KW  - robot
+KW  - remote surgery
+KW  - PaaS
+AB  - The recent redefinition of Digital Twin (DT) significantly has been expanding DT's potential and increasing momentum in both industries and academic research. DTs have not only widely adopted in manufacture industry but also become a new trend in medical and healthcare industry. However, traditional architectures do not provide satisfactory solutions for protecting privacy, breaking data silos, handling big data, and quickly integrating heterogeneous DTs. In this chapter, we introduced Intelligent DT architecture reference model for medical and health industry. It not only addresses the above challenges but also analytically defines the location of DT services deployed, the detail logic capabilities DT system provides and interfaces among them. We analytically molded DT's architecture models, analyzed their suitable application scenarios, and recommend using loosely coupled DT architecture model that combine data-centric, event-centric and application centric methodologies for complex cases in medical and healthcare industry. The architecture is helpful in identifying various levels of business and technical requirements and designing DT system. Additionally, we present the use case of digital patient and automatic remote surgery to give a detail explanation and demonstrate the efficacy of the architecture reference model: distributed DTs can analyze the current and historical medical data to plan, practice, and perform remote surgery. From feedback loop and machine learning module, DTs can gradually learn how to perform operations and make the operation automatic. This architecture reference model can works as a high level template to facilitate designing and integrating DTs across different systems, platforms, and domains.
+ER  - 
+
+TY  - CHAP
+T1  - Chapter 6 - An architecture for data management in Digital Twins for Smart Cities
+AU  - Becker, Karin
+AU  - de Oliveira, Daniel
+A2  - Nguyen, Tuan Anh
+BT  - Digital Twin and Blockchain for Sensor Networks in Smart Cities
+PB  - Elsevier
+SP  - 137
+EP  - 157
+PY  - 2025
+DA  - 2025/01/01/
+SN  - 978-0-443-30076-9
+DO  - https://doi.org/10.1016/B978-0-443-30076-9.00007-8
+UR  - https://www.sciencedirect.com/science/article/pii/B9780443300769000078
+KW  - Smart cities
+KW  - digital twin
+KW  - data management
+KW  - reference architecture
+AB  - Digital Twins (DTs) are data-centric solutions at the core of innovative solutions for Smart Cities (SCs). Despite the importance of effective and efficient data management, existing reference architectures fail to detail the supporting functionality for data management and the architectural elements that provide it. In this chapter, we summarize the properties of the data to be managed by DTs in the SC context, outline the required data management capabilities and key issues, and advance the state-of-the-art by proposing a reference architecture for data management. The architecture follows well-established design principles and is structured into multiple layers, each serving a specific purpose and grouping architectural components accordingly. The result is a comprehensive architectural approach that separates and standardizes tasks required for managing data in DTs for SCs.
+ER  - 
+
+TY  - JOUR
+T1  - Adaptive physically consistent neural networks for data center thermal dynamics modeling
+AU  - Chen, Dong
+AU  - Chui, Chee-Kong
+AU  - Lee, Poh Seng
+JO  - Applied Energy
+VL  - 377
+SP  - 124637
+PY  - 2025
+DA  - 2025/01/01/
+SN  - 0306-2619
+DO  - https://doi.org/10.1016/j.apenergy.2024.124637
+UR  - https://www.sciencedirect.com/science/article/pii/S0306261924020208
+KW  - Data center
+KW  - Physics-informed neural networks
+KW  - Energy model
+KW  - Machine learning
+KW  - Digital twin
+KW  - Prior knowledge
+AB  - Data centers (DCs) are vital for large-scale Internet services, yet their energy consumption poses a significant concern. Energy modeling for DCs is crucial for design, control, and retrofitting. Traditional physic-based models lack flexibility, while Neural Networks (NN) may not strictly adhere to physical principles and demand extensive data. The Physically Consistent Neural Networks (PCNN) framework, which incorporates physical laws into NN through positive coefficients, is introduced. Despite its innovative approach, PCNN struggles with accuracy and generalization in real-world thermal environments due to its reliance on empirically predetermined, static coefficients, which are costly to derive and limit adaptability to dynamic conditions. To address these limitations, this study proposes the Adaptive Physically Consistent Neural Networks (A-PCNN) framework. A-PCNN leverages NN with Softplus activation functions, replacing traditional preset and fixed coefficients to reduce trial-and-error costs and increase flexibility. Over a six-month real data center dataset case study, the A-PCNN framework significantly outperformed the traditional PCNN model. Specifically, it reduced the Mean Absolute Error by 17.3 % for a 15-min forecast and by 79.2 % over a seven-day period, using a Multilayer Perceptron (MLP) as the base model. Furthermore, the A-PCNN framework demonstrates remarkable adaptability. Whether based on a MLP or Long Short-Term Memory (LSTM) model, it consistently surpasses traditional methods in predictive accuracy across time frames from 15 min to 7 days. Its superior performance is especially notable in longer forecast periods.
+ER  - 
+
+TY  - CHAP
+T1  - Connecting the Simulation Model to the Digital Twin to help drive Sustainability
+AU  - de Beer, Julien
+AU  - Hahne, Mihaela
+A2  - Yamashita, Yoshiyuki
+A2  - Kano, Manabu
+BT  - Computer Aided Chemical Engineering
+PB  - Elsevier
+VL  - 49
+SP  - 991
+EP  - 996
+PY  - 2022
+DA  - 2022/01/01/
+T2  - 14 International Symposium on Process Systems Engineering
+SN  - 1570-7946
+DO  - https://doi.org/10.1016/B978-0-323-85159-6.50165-2
+UR  - https://www.sciencedirect.com/science/article/pii/B9780323851596501652
+KW  - sustainability
+KW  - simulation
+KW  - design
+KW  - digital twin
+KW  - predictability
+AB  - The chemicals industry is facing a highly dynamic environment. Demand is continually fluctuating, and the pressure for new sustainable processes and products is rising. New environmental regulations are always expanding and becoming less harmonized globally, and customers are demanding sustainable products that are friendly to the environment. Owner operators in all industries are maximizing the value that can be extracted from their projects and have been seeking out new and innovative ways to drive greater efficiency and productivity. Efficiency, safety and quality must be guaranteed and therefore more stringent control over compliance and regulation requirements has to be at the heart of every aspect of the design process. Profitability, safety and efficiency must be intrinsically linked. Today, companies need to find ways to be more efficient in the execution of the engineering projects. One way is to compress engineering cycles and adapt processes and products to comply with sustainable KPIs and new demands. The Unified Engineering methodology is one option enabled by the latest technologies and tools available. For decades, engineering to design and build industrial plants has been developed through projects with a complex and highly iterative workflow, using siloed solutions. The entire process is very time consuming, and the final deliverable to the owner of the operation is a set of documents with disperse data, with no guarantee of consistency. In order to compress engineering cycles, a data-centric approach must be used. With this approach, documents and applications are always kept up to date with the latest validated data. The data-centric approach is the first step to apply the Unified Engineering methodology, which will evolve later to the plant Digital Twin. The Unified Engineering methodology uses a single source of information that is available for all the teams involved in the project. Engineers become more efficient and work with reliable information as documents and models are updated in a controlled way as soon as any change is made. For even greater sustainability and effectiveness, the best way is to use the Unified Engineering methodology in the cloud. Unified Engineering reduces capital project costs, risks, and delays, enabling shorter engineering cycles required to deliver new sustainable projects. By minimizing engineering errors and accelerating project execution, companies can get 50% faster FEED stage, 30% increase in engineering efficiency, and 5% reduction in TIC (Total Installed Cost).
+ER  - 
+
+TY  - JOUR
+T1  - Energy management of renewable based power grids using artificial intelligence: Digital twin of renewables
+AU  - Fan, Xuezhou
+AU  - Li, Yajuan
+JO  - Solar Energy
+VL  - 262
+SP  - 111867
+PY  - 2023
+DA  - 2023/09/15/
+SN  - 0038-092X
+DO  - https://doi.org/10.1016/j.solener.2023.111867
+UR  - https://www.sciencedirect.com/science/article/pii/S0038092X23005005
+KW  - Renewable power grids
+KW  - Cloud-fog computing
+KW  - Artificial intelligence
+KW  - Server broker policies
+KW  - Digital twin
+AB  - This paper proposes fog computing as a method of minimizing latency and maximizing performance by storing the information in the cloud to give a wide range of services to users using cloud computing. Also, consumer requests have been handled by several cloud Data Centers (DCs). Due to the fog's ability to attract more users and provide more services, load balancing has become increasingly crucial. It is therefore necessary to enhance the method that balances the fog's load. The study proposes a three-layer model comprising a cloud layer, a fog layer, and a user layer for optimal energy management in renewable power grids. The renewable energy sources are all modeled within the digital twin environment to make sure that very accurate monitoring is made. It is proposed for balancing the fog load using an artificial intelligence based optimization algorithm called the Whale optimization algorithm (WOA). Services are provided by fog servers in response to requests from users. In case of failure of the fog layer, all consumers' records are saved and services are provided to them through the cloud. Moreover, the service broker policies (SBP) have been applied to select the DCs efficiently. This paper compares the suggested algorithm to three previously developed algorithms including the particle swarm optimization (PSO), differential devolution (DE), and teaching–learning-based optimization (TLBO). It uses the three SBPs of closest data center, optimize response time (RT), reconfigure dynamically with load, and an improved SBP. It also minimizes RT and process time to improve the efficiency. The results show that there is an improvement in WOA's performance by approximately 5% compared to that of other algorithms.
+ER  - 
+
+TY  - JOUR
+T1  - SDNSandbox — Enabling learning-based innovation in provider networks
+AU  - Solomon, Yossi
+AU  - Mokryn, Osnat
+AU  - Kuflik, Tsvi
+JO  - Computer Networks
+VL  - 219
+SP  - 109446
+PY  - 2022
+DA  - 2022/12/24/
+SN  - 1389-1286
+DO  - https://doi.org/10.1016/j.comnet.2022.109446
+UR  - https://www.sciencedirect.com/science/article/pii/S1389128622004807
+KW  - SDN in-a-box
+KW  - Load prediction
+KW  - Deep learning
+KW  - Provider networks
+KW  - SDN-DCRNN
+AB  - Provider networks are looking to follow the footsteps of cloud-based networks/data centers and incorporate Software-Defined Networking (SDN) technology. This move is problematic for various reasons, such as the networks’ size and the providers’ inability to control users’ activity. Additionally, research into these networks is handicapped by the lack of information stemming from the confidentiality of these complex networks. To that end, we have created SDNSandbox — an SDN-based provider network simulator prototype. SDNSandbox is an open-source, easy-to-use, provider-network in-a-laptop simulator. It aims to facilitate the creation of reproducible experiments and large-scale synthetic datasets. In its current prototype form, it uses a basic traffic generator module alongside real-world provider topologies. SDNSandbox allows users to simulate provider networks, enabling them to conduct research in the field and examine practical applications. To demonstrate SDNSandbox, we use the prototype to simulate basic traffic conditions over several topologies. We then feed the generated datasets to DCRNN, a Convolutional Neural Network (CNN) traffic patterns prediction module. We adapt DCRNN to accept SDNSandbox output and show that it can predict traffic conditions at various points within the network tens of seconds into the future. We further compare its performance with other baseline algorithms. Our results demonstrate that SDNSandbox can also be used as a testbed for a digital twin, creating datasets that are hard to replicate in production networks. It also serves as a demonstration of the framework’s power and versatility as a modular research tool.
+ER  - 
+
+TY  - JOUR
+T1  - Is it the time to do Digital Twin HPC Data Center?
+AU  - Telesca, Luigi
+AU  - Chiara, Davide De
+AU  - Antonini, Marco
+AU  - Genovese, Francesco
+AU  - Santomauro, Giuseppe
+AU  - Guarnieri, Guido
+AU  - Ponti, Giovanni
+AU  - Chinnici, Marta
+JO  - Procedia Computer Science
+VL  - 270
+SP  - 1766
+EP  - 1777
+PY  - 2025
+DA  - 2025/01/01/
+T2  - 29th International Conference on Knowledge-Based and Intelligent Information & Engineering Systems (KES 2025)
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2025.09.297
+UR  - https://www.sciencedirect.com/science/article/pii/S1877050925029709
+KW  - Digital Twin
+KW  - Data Center
+KW  - HPC
+KW  - Energy Efficiency
+KW  - Data Science
+KW  - Blockchain
+KW  - AI
+AB  - The proliferation of Digital twins in industries and society, especially with AI technology, will enable open, connected, and coordinated intelligent spaces. The seamless connection and real-time data exchange between the physical and Digital Twin allow us to conduct real-time energy consumption simulation and energy-saving control. Therefore, combining AI technology and Blockchain technology to build the Digital Twin is conducive to researching adaptive, intelligent, and fault-tolerant Data Center (DC) energy-saving schemes more flexibly and dynamically. A novel energy-saving solution is proposed in this paper to realize green and safe DCs. With its real-time management, monitoring, and control capabilities, the Digital Twin DC approach provides a comprehensive visualization of the entire DC, enabling the coverage of the DC status and optimizing its functionalities. The authors also aim to demonstrate the potential benefits of the Digital Twin DC challenge to stakeholders utilizing Blockchain to tokenize High-Performance Computing (HPC) assets and implement Smart Contracts, which has significantly enhanced transparency, demonstrated by a 40% increase in cost visibility for shared resources. This technology enables real-time resource accounting and robust process control, aligning HPC operations with strict Environmental, Social, and Governance (ESG) criteria, which is essential for organizations committed to meeting rigorous ESG standards.
+ER  - 
+
+TY  - JOUR
+T1  - Architecture for data-centric and semantic-enhanced industrial metaverse: Bridging physical factories and virtual landscape
+AU  - Tu, Xinyi
+AU  - Ala-Laurinaho, Riku
+AU  - Yang, Chao
+AU  - Autiosalo, Juuso
+AU  - Tammi, Kari
+JO  - Journal of Manufacturing Systems
+VL  - 74
+SP  - 965
+EP  - 979
+PY  - 2024
+DA  - 2024/06/01/
+SN  - 0278-6125
+DO  - https://doi.org/10.1016/j.jmsy.2024.05.016
+UR  - https://www.sciencedirect.com/science/article/pii/S0278612524001134
+KW  - Industrial metaverse
+KW  - Virtual–physical continuum
+KW  - Digital twins
+KW  - Extended reality
+KW  - Architecture
+KW  - Industry 5.0
+AB  - The metaverse paradigm has recently captured increasing scholarly and industrial attention, particularly within the scope of human-centric Industry 5.0. In this context, the metaverse promises a transformative confluence of the physical and digital realms, offering unparalleled avenues for human augmentation in industrial applications. Yet, while several conceptual metaverse architectures and illustrative case studies have emerged, they scarcely delve deep into the nuanced practice of cultivating the industrial metaverse for factory-scale applications. Addressing this research gap, this work introduces a novel architecture for a data-centric and semantic-enhanced industrial metaverse. The architecture intricately weaves the physical factory domain with the metaverse, fortified by a suite of ten modules, facilitating data flow and knowledge synchronization with the integration of digital twins and semantic models. The practical application and relevance of this architecture are further accentuated through a case study focused on in-plant material flow tracking. Emerging results underline that our architecture encapsulates the essential components for constructing a factory-scale industrial metaverse. Future research will be geared towards a comprehensive validation of the proposed metaverse architecture, culminating in tangible implementations across diverse industrial contexts.
+ER  - 
+
+TY  - JOUR
+T1  - Developing a digital twin to measure and optimise HPC efficiency
+AU  - Kammeyer, Alexander
+AU  - Burger, Florian
+AU  - Lübbert, Daniel
+AU  - Wolter, Katinka
+JO  - Measurement: Sensors
+VL  - 38
+SP  - 101481
+PY  - 2025
+DA  - 2025/05/01/
+T2  - Proceedings of the XXIV IMEKO World Congress
+SN  - 2665-9174
+DO  - https://doi.org/10.1016/j.measen.2024.101481
+UR  - https://www.sciencedirect.com/science/article/pii/S2665917424004574
+KW  - HPC
+KW  - Data-driven optimisation
+KW  - Digital twin
+KW  - Energy-aware scheduling
+KW  - Data processing
+AB  - A Digital Twin for a high-performance computer requires the integration of many sensors and data sources for monitoring operation and tuning of the system. This paper introduces the network concept for the Digital Twin of PTB's HPC cluster with agents, software components to collect, process and send measurement data to the database of the Digital Twin, and how sensors are separated into networks for security of the data centre. The Digital Twin is used to tune the system for reduced CO2 emissions. In a first step, the focus lies on two control parameters: Processor frequencies, scaled specifically to maximise energy savings, and a modified scheduling mechanism, with deliberate delays helping to exploit phases of low CO2 emissions. In the simulation, frequency scaling showed saving of 3–4 percent and the modified scheduling mechanism, depending on the workload, of 1–9 percent. Combining both methods allowed for savings of up to 11 percent.
+ER  - 
+
+TY  - CHAP
+T1  - How tools and technologies can help drive sustainability
+AU  - de Beer, Julien
+AU  - Hahne, Mihaela
+A2  - Montastruc, Ludovic
+A2  - Negny, Stephane
+BT  - Computer Aided Chemical Engineering
+PB  - Elsevier
+VL  - 51
+SP  - 1345
+EP  - 1350
+PY  - 2022
+DA  - 2022/01/01/
+T2  - 32 European Symposium on Computer Aided Process Engineering
+SN  - 1570-7946
+DO  - https://doi.org/10.1016/B978-0-323-95879-0.50225-3
+UR  - https://www.sciencedirect.com/science/article/pii/B9780323958790502253
+KW  - sustainability
+KW  - compressed engineering cycles
+KW  - unified engineering
+KW  - process engineering
+AB  - The chemicals industry is facing a highly dynamic environment. Demand is continually fluctuating, and the pressure for new sustainable processes and products is rising. New environmental regulations are always expanding and becoming less harmonized globally, and customers are demanding sustainable products that are friendly to the environment. To follow all the market changes and remain competitive, companies need to invest to develop new processes and products. However, since it´s a capital-intensive industry, new investments need to be carefully managed. Today, companies need to find ways to be more efficient in the execution of engineering projects. One way is to compress engineering cycles and adapt processes and products to comply with sustainable Key Performance Indicators and new demands. The Unified Engineering methodology is one option enabled by the latest technologies and tools available. The data-centric approach is the first step to apply the Unified Engineering methodology, which will evolve later to the plant Digital Twin. The Unified Engineering methodology uses a single source of information that is available for all the teams involved in the project. Engineers become more efficient and work with reliable information as documents and models are updated in a controlled way as soon as any change is made. Unified Engineering reduces capital project costs, risks, and delays enabling shorter engineering cycles required to deliver new sustainable projects. By minimizing engineering errors and accelerating project execution, companies can get 5% reduction in Total Installed Cost.
+ER  - 
+
+TY  - JOUR
+T1  - Monitoring of the transport movement zone using UAV and geostationary satellite
+AU  - Konikov, Alexandr
+AU  - Surkova, Liudmila
+JO  - Transportation Research Procedia
+VL  - 63
+SP  - 1589
+EP  - 1594
+PY  - 2022
+DA  - 2022/01/01/
+T2  - X International Scientific Siberian Transport Forum — TransSiberia 2022
+SN  - 2352-1465
+DO  - https://doi.org/10.1016/j.trpro.2022.06.172
+UR  - https://www.sciencedirect.com/science/article/pii/S2352146522004276
+KW  - Monitoring
+KW  - transport
+KW  - geostationary satellite
+AB  - Currently, unmanned aerial vehicles UAVs (drones) are widely used to monitor the territory and objects located in the traffic zone. However, for regions with poorly developed communication infrastructure, there are problems associated with the transfer of information coming from UAV to Data Center. The article proposes to solve the problem with the help of a system based on the use of UAVs and a geostationary Earth satellite. Thanks to this approach, it is possible not only to monitor objects in the traffic zone, but also to transfer data to the processing center regardless of the state of telecommunications in this region. The presence of such an opportunity creates the prerequisites for the effective use of Big Data and Digital Twin technologies, which bring solutions in this area to a qualitatively higher level. To reduce the cost of the project and improve the technical characteristics, data processing should be carried out using Cloud and Edge computing.
+ER  - 
+
+TY  - JOUR
+T1  - Architecting Digital Twins: From Concept to Reality
+AU  - Leipnitz, Marcos Tomazzoli
+AU  - Petry, Rafael Humann
+AU  - Rodrigues, Fabrício Henrique
+AU  - de Souza Silva, Haroldo Rojas
+AU  - Correia, Jaqueline Bitencourt
+AU  - Becker, Karin
+AU  - Wickboldt, Juliano Araújo
+AU  - Carbonera, Joel Luís
+AU  - Netto, João Cesar
+AU  - Abel, Mara
+JO  - Procedia Computer Science
+VL  - 256
+SP  - 530
+EP  - 537
+PY  - 2025
+DA  - 2025/01/01/
+T2  - CENTERIS - International Conference on ENTERprise Information Systems / ProjMAN - International Conference on Project MANagement / HCist - International Conference on Health and Social Care Information Systems and Technologies
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2025.02.149
+UR  - https://www.sciencedirect.com/science/article/pii/S187705092500506X
+KW  - Digital Twins
+KW  - Oil
+KW  - Gas Industry
+KW  - Software Architecture
+AB  - Digital twins (DTs) have emerged as a prominent technology across various industries. However, their development in the Oil and Gas sector faces challenges related to the size and complexity of the domain, which leads to a focus on specific sub-problems like maintenance or optimization with hard, further integrated solutions. These DTs typically lack open architectures since they base the implementations on third-party solutions. This lack of architecture frameworks hinders rapid and scalable DT development and complicates the integration of new assets, services, and data sources. This paper introduces a semantic-oriented DT Framework from the PeTWIN project, which aims to address these challenges by offering (i) a data-centric, data-driven software solution, (ii) an open, modular, and extensible microservices architecture, and (iii) a semantic ontology-based strategy for integration and interoperability. The paper details the key architectural components, behaviours, and interfaces to meet industry needs and provides a proof of concept demonstrating the framework’s capabilities.
+ER  - 
+
+TY  - CHAP
+T1  - How tools and technologies help drive sustainability
+AU  - de Beer, Julien
+A2  - Türkay, Metin
+A2  - Gani, Rafiqul
+BT  - Computer Aided Chemical Engineering
+PB  - Elsevier
+VL  - 50
+SP  - 669
+EP  - 676
+PY  - 2021
+DA  - 2021/01/01/
+T2  - 31 European Symposium on Computer Aided Process Engineering
+SN  - 1570-7946
+DO  - https://doi.org/10.1016/B978-0-323-88506-5.50106-6
+UR  - https://www.sciencedirect.com/science/article/pii/B9780323885065501066
+KW  - sustainable products
+KW  - compressed engineering cycles
+KW  - unified engineering
+AB  -  Abstract
+The chemicals industry is facing a highly dynamic environment. Demand is continually fluctuating, and the pressure for new sustainable processes and products is rising. New environmental regulations are always expanding and becoming less harmonized globally, and customers are demanding sustainable products that are friendly to the environment. To follow all the market changes and remain competitive, companies need to invest in capital projects to develop new processes and products. However, since it's a capital-intensive industry, new investments in capital projects need to be carefully managed. Today, companies need to find ways to be more efficient in the execution of the engineering projects. One way is to compress engineering cycles and adapt processes and products to comply with sustainable KPIs and new demands. The Unified Engineering methodology is one option enabled by the latest technologies and tools available. For decades, engineering to design and build industrial plants has been developed through projects with a complex and highly iterative workflow, using siloed solutions. The entire process is very time consuming, and the final deliverable to the owner of the operation is a set of documents (P#amp;amp;IDs, datasheets, 3D model, etc.) with disperse data, with no guarantee of consistency. In order to compress engineering cycles, a data-centric approach must be used. With this approach, documents and applications are always kept up to date with the latest validated data. The data-centric approach is the first step to apply the Unified Engineering methodology, which will evolve later to the plant Digital Twin. The Unified Engineering methodology uses a single source of information that is available for all the teams involved in the project. Drawings, steady-state and dynamic process simulations, line lists, datasheets, 3D models, and isometrics, among others, are regularly updated with the data available in the unified source of information. Engineers become more efficient and work with reliable information as documents and models are updated in a controlled way as soon as any change is made. For even greater sustainability and effectiveness, the best way is to use the Unified Engineering methodology in the cloud. The cloud enables higher degrees of flexibility and collaboration among people working from different locations, which means that always the most appropriate resources can be allocated for each part of the project. Unified Engineering reduces capital project costs, risks, and delays enabling shorter engineering cycles required to deliver new sustainable projects. By minimizing engineering errors and accelerating project execution, companies can get 50% faster FEED stage, 30% increase in engineering efficiency, and 5% reduction in TIC (Total Installed Cost).
+ER  - 
+
+TY  - JOUR
+T1  - Unpacking data-centric geotechnics
+AU  - Phoon, Kok-Kwang
+AU  - Ching, Jianye
+AU  - Cao, Zijun
+JO  - Underground Space
+VL  - 7
+IS  - 6
+SP  - 967
+EP  - 989
+PY  - 2022
+DA  - 2022/12/01/
+SN  - 2467-9674
+DO  - https://doi.org/10.1016/j.undsp.2022.04.001
+UR  - https://www.sciencedirect.com/science/article/pii/S2467967422000514
+KW  - Data-centric geotechnics
+KW  - Bayesian machine learning
+KW  - Data-driven site characterization (DDSC)
+KW  - Project DeepGeo
+KW  - Data-informed decision support index
+AB  - The purpose of this paper (presented online as a keynote lecture at the 25th Annual Indonesian Geotechnical Conference on 10 Nov 2021) is to broadly conceptualize the agenda for data-centric geotechnics, an emerging field that attempts to prepare geotechnical engineering for digital transformation. The agenda must include (1) development of methods that make sense of all real-world data (not selective input data for a physical model), (2) offering insights of significant value to critical real-world decisions for current or future practice (not decisions for an ideal world or decisions of minor concern to geotechnical engineers), and (3) sensitivity to the physical context of geotechnics (not abstract data-driven analysis connected to geotechnics in a peripheral way, i.e., engagement with the knowledge and experience base should be substantial). These three elements are termed “data centricity”, “fit for (and transform) practice”, and “geotechnical context” in the agenda. Given that a knowledge of the site is central to any geotechnical engineering project, data-driven site characterization (DDSC) must constitute one key application domain in data-centric geotechnics, although other infrastructure lifecycle phases such as project conceptualization, design, construction, operation, and decommission/reuse would benefit from data-informed decision support as well. One part of DDSC that addresses numerical soil data in a site investigation report and soil property databases is pursued under Project DeepGeo. In principle, the source of data can also go beyond site investigation, and the type of data can go beyond numbers, such as categorical data, text, audios, images, videos, and expert opinion. The purpose of Project DeepGeo is to produce a 3D stratigraphic map of the subsurface volume below a full-scale project site and to estimate relevant engineering properties at each spatial point based on actual site investigation data and other relevant Big Indirect Data (BID). Uncertainty quantification is necessary, as current real-world data is insufficient, incomplete, and/or not directly relevant to construct a deterministic map. The value of a deterministic map for decision support is debatable. The computational cost to do this for a 3D true scale subsurface volume must be reasonable. Ultimately, geotechnical structures need to be a part of a completely smart infrastructure that fits the circular economy and need to focus on delivering service to end-users and the community from project conceptualization to decommission/reuse with full integration to smart city and smart society. Although current geotechnical practice has been very successful in taking “calculated risk” informed by limited data, imperfect theories, prototype testing, observations, among others and exercising judicious caution and engineering judgment, there is no clear pathway forward to leverage on big data and digital technologies such as machine learning, BIM, and digital twin to meet more challenging needs such as sustainability and resilience engineering.
+ER  - 
+
+TY  - JOUR
+T1  - Improving energy efficiency and fault tolerance of mission-critical cloud task scheduling: A mixed-integer linear programming approach
+AU  - Saberikia, Mohammadreza
+AU  - Farbeh, Hamed
+AU  - Fazeli, Mahdi
+JO  - Sustainable Computing: Informatics and Systems
+VL  - 45
+SP  - 101068
+PY  - 2025
+DA  - 2025/01/01/
+SN  - 2210-5379
+DO  - https://doi.org/10.1016/j.suscom.2024.101068
+UR  - https://www.sciencedirect.com/science/article/pii/S2210537924001136
+KW  - Cloud
+KW  - Task scheduling
+KW  - Energy efficiency
+KW  - Fault tolerance
+KW  - Backup task
+KW  - Mission-critical application
+KW  - MILP
+AB  - Cloud services have become indispensable in critical sectors such as healthcare, drones, digital twins, and autonomous vehicles, providing essential infrastructure for data processing and real-time analytics. These systems operate across multiple layers, including edge, fog, and cloud, requiring efficient resource management to ensure reliability and energy efficiency. However, increasing computational demands have led to rising energy consumption and frequent faults in cloud data centers. Inefficient task scheduling exacerbates these issues, causing resource overutilization, execution delays, and redundant processing. Current approaches struggle to optimize energy consumption, execution time, and fault tolerance simultaneously. While some methods offer partial solutions, they suffer from high computational complexity and fail to effectively balance the workloads or manage redundancy. Therefore, a comprehensive task scheduling solution is needed for mission-critical applications. In this article, we introduce a novel scheduling algorithm based on Mixed Integer Linear Programming (MILP) that optimizes task allocation across edge, fog, and cloud environments. Our solution reduces energy consumption, execution time, and failure rates while ensuring balanced distribution of computational loads across virtual machines. Additionally, it incorporates a fault tolerance mechanism that reduces the overlap between primary and backup tasks by distributing them across multiple availability zones. The scheduler’s efficiency is further enhanced by a custom-designed heuristic, ensuring scalability and practical applicability. The proposed MILP-based scheduler demonstrates significant average improvements over the best state-of-the-art algorithms evaluated. It achieves a 9.63% increase in task throughput, reduces energy consumption by 18.20%, shortens execution times by 9.35%, and lowers failure probabilities by 11.50% across all layers of the distributed cloud system. These results highlight the scheduler’s effectiveness in addressing key challenges in energy-efficient and reliable cloud computing for mission-critical applications.
+ER  - 
+
+TY  - JOUR
+T1  - The Digital Design Basis. Demonstrating a framework to reduce costs and improve quality in early‐phase design
+AU  - Cameron, David B.
+AU  - Skogvang, Arnljot
+AU  - Fekete, Mihaly
+AU  - Martinsson, Henrik
+AU  - Strand, Morten
+AU  - Castro, Marcel
+AU  - Helle, Kirsten
+AU  - Gjerver, Anders
+AU  - Hansen, Christian Mahesh
+AU  - Johnsen, Kristin Høines
+JO  - Digital Chemical Engineering
+VL  - 2
+SP  - 100015
+PY  - 2022
+DA  - 2022/03/01/
+SN  - 2772-5081
+DO  - https://doi.org/10.1016/j.dche.2022.100015
+UR  - https://www.sciencedirect.com/science/article/pii/S2772508122000060
+KW  - Digital twins
+KW  - Standards
+KW  - ISO15926
+KW  - OPC
+KW  - Industry 4.0
+KW  - ISO/IEC81346
+KW  - Systems
+KW  - Concept design
+KW  - Review
+KW  - Semantic technologies
+AB  - As a joint initiative, Aker BP, Lundin-Norway, Aker Solutions, TechnipFMC, Aibel and Aize, together with Sirius (the oil and gas research centre at the University of Oslo) have developed and demonstrated a common digital model representation of the information in early-phase design bases for oil & gas field developemnts. The scope of the project was to develop a proof of concept for a Digital Design Basis that supports data-centric rather than document-based engineering. The project established a standards-based data model that holds data about both the design basis and functional requirements decided by an operator. This model that can be implemented in any relevant software tools in a concept study, to ensure that information shared between operators and EPC vendors, with their different software tools, have the same meaning and understanding. The model is based on a common digitalized language for communication along the field development supply chain.
+ER  - 
+
+TY  - JOUR
+T1  - Digital Twin of a Data Center at an Educational Institution
+AU  - Mutawa, A.M.
+AU  - Tolba, A.S.
+JO  - Journal of Engineering Research
+VL  - 11
+IS  - 1, Part A
+SP  - 57
+EP  - 67
+PY  - 2023
+DA  - 2023/03/01/
+SN  - 2307-1877
+DO  - https://doi.org/10.36909/jer.15973
+UR  - https://www.sciencedirect.com/science/article/pii/S230718772500166X
+KW  - Digital Transformation: Digital Twins: Industry 4.0: Smart Data Centers: Smart Universities: and Internet of Things
+AB  - ABSTRACT
+Digital twins are among the most important trends of the fourth industrial revolution. They present a crucial tool for protecting critical mission systems and the development of new services, products, and processes. This paper presents the first digital twin for a data center. The rapid growth of the Internet of things and the areas of modeling and simulation results in high demand for the development of data center digital twins (DCDT) to ensure the safety/protection of critical and costly mission infrastructure and guarantee business continuity, enhance efficiency, and sustain development. This paper presents the design and implementation of a digital twin for a university data center. Different sensory data like temperature, humidity, smoke, and water leakage are analyzed using an intelligent event detection approach, which detects abnormalities using an Extreme Learning Machine (ELM) fed with the minimum ratio between successive real-time data streams. The performance of ELM has outperformed that of both Learning Vector Quantization and Radial Basis Function-based neural network classifiers and proved much faster in abnormal event detection.
+ER  - 
+
+TY  - JOUR
+T1  - Digital twin-driven energy consumption management of integrated heat pipe cooling system for a data center
+AU  - Zhu, Haitao
+AU  - Lin, Botao
+JO  - Applied Energy
+VL  - 373
+SP  - 123840
+PY  - 2024
+DA  - 2024/11/01/
+SN  - 0306-2619
+DO  - https://doi.org/10.1016/j.apenergy.2024.123840
+UR  - https://www.sciencedirect.com/science/article/pii/S0306261924012236
+KW  - Digital twin
+KW  - Energy consumption management
+KW  - Cooling system
+KW  - Real-time interaction
+KW  - Genetic algorithm
+AB  - The energy consumption management (ECM) for the integrated heat pipe cooling (IHPC) systems has become a significant cost-cutting strategy, given the growing demand for the decreased cooling and maintenance costs in data centers. However, the traditional ECM strategies lack an integration with the real-time information and the automatic feedback control, causing the risks of system operation difficult to diagnose and the potential for energy saving hard to exploit. In this respect, a digital twin approach was proposed to efficiently and automatically implement the ECM strategy for an IHPC system. First, a digital twin architecture was established to enable seamless integration and real-time interaction between the physical system and the digital twin. Secondly, the digital twin models of monitoring, simulation, energy evaluation and optimization were developed to drive the corresponding services. Finally, the approach was verified on an IHPC system operating in a real-life data center. It is found that the approach can automatically detect and justify the abnormal states of the IHPC system. Moreover, the approach can reduce the power consumption by 23.63% while meeting the production requirements. The mean relative errors of the supply air temperature and the cooling capacity between the digital twin simulated and the on-site records are 1.43% and 1.46%, respectively. In summary, the proposed approach provides a digital twin workflow that can significantly improve the efficiency of the ECM strategy deployed on an IHPC system.
+ER  - 
+
+TY  - JOUR
+T1  - Integrating high-performance computing, machine learning, data management workflows, and infrastructures for multiscale simulations and nanomaterials technologies
+AU  - Le Piane, Fabio
+AU  - Vozza, Mario
+AU  - Baldoni, Matteo
+AU  - Mercuri, Francesco
+JO  - Beilstein Journal of Nanotechnology
+VL  - 15
+SP  - 1498
+EP  - 1521
+PY  - 2024
+DA  - 2024/01/01/
+SN  - 2190-4286
+DO  - https://doi.org/10.3762/bjnano.15.119
+UR  - https://www.sciencedirect.com/science/article/pii/S2190428624001060
+KW  - artificial intelligence
+KW  - high-performance computing
+KW  - HPC
+KW  - machine learning
+KW  - materials modelling
+KW  - multiscale modelling
+KW  - nanomaterials
+KW  - semantic data management
+AB  - This perspective article explores the convergence of advanced digital technologies, including high-performance computing (HPC), artificial intelligence, machine learning, and sophisticated data management workflows. The primary objective is to enhance the accessibility of multiscale simulations and their integration with other computational techniques, thereby advancing the field of nanomaterials technologies. The proposed approach relies on key strategies and digital technologies employed to achieve efficient and innovative materials discovery, emphasizing a fully digital, data-centric methodology. The integration of methodologies rooted in knowledge and structured information management serves as a foundational element, establishing a framework for representing materials-related information and ensuring interoperability across a diverse range of tools. The paper explores the distinctive features of digital and data-centric approaches and technologies for materials development. It highlights the role of digital twins in research, particularly in the realm of nanomaterials development and examines the impact of knowledge engineering in establishing data and information standards to facilitate interoperability. Furthermore, the paper explores the role of deployment technologies in managing HPC infrastructures. It also addresses the pairing of these technologies with user-friendly development tools to support the adoption of digital methodologies in advanced research.
+ER  - 
+
+TY  - JOUR
+T1  - Digital Vehicle Protocol based on Distributed Ledger Technology in Production
+AU  - Beckschulte, Sebastian
+AU  - Huebser, Louis
+AU  - Kiesel, Raphael
+AU  - Schmitt, Robert H.
+JO  - Procedia CIRP
+VL  - 107
+SP  - 804
+EP  - 809
+PY  - 2022
+DA  - 2022/01/01/
+T2  - Leading manufacturing systems transformation – Proceedings of the 55th CIRP Conference on Manufacturing Systems 2022
+SN  - 2212-8271
+DO  - https://doi.org/10.1016/j.procir.2022.05.066
+UR  - https://www.sciencedirect.com/science/article/pii/S221282712200350X
+KW  - Business model
+KW  - digital twin
+KW  - distributed ledger technology
+KW  - production
+KW  - protocol
+KW  - value chain
+KW  - vehicle
+AB  - This paper describes the utilization of Distributed Ledger Technology (DLT) as means of a digital backbone – the so-called digital vehicle protocol – across the commercial vehicle industry. Enabling a digital vehicle protocol along the value chain resolves common data management problems, which are still the main inhibitor for advanced analytics methods and serves as a basis for new business models. This contribution demonstrates a per product-data centered approach in which low structured data can be written to and read from any point along the value chain on a product unit-based scope by using DLT. By embedding data post-processing pipelines per product-unit, data easily can be retrofitted to the task at hand. Therefore, it decouples data post-processing from data generation as well as overcoming current data silos within organizations. DLT hereby allows tying processing routines to data leading to a temper-proof digital vehicle protocol. Besides obtaining a stronger product-individual focus, our approach enables an easier integration of stakeholders into the entire business process landscape such as suppliers as well as sellers and leads to future business models such as billing depending on quality defects found during production. Our conceptual framework resolves current problems, i.e. data access, data quality and data processing costs. We align conceptual applicability with regards to a Truck Original Equipment Manufacturer (OEM) within the scope of failure management in production in order to specify implementation details, which reveal new business process models that further can transform commercial vehicle manufacturers from producers to service providers.
+ER  - 
+
+TY  - JOUR
+T1  - PULSE: A modular framework for predictive energy efficiency in heterogeneous data centers
+AU  - Flores-Martin, Daniel
+AU  - Lemus-Prieto, Felipe
+AU  - Rico-Gallego, Juan A.
+JO  - SoftwareX
+VL  - 31
+SP  - 102313
+PY  - 2025
+DA  - 2025/09/01/
+SN  - 2352-7110
+DO  - https://doi.org/10.1016/j.softx.2025.102313
+UR  - https://www.sciencedirect.com/science/article/pii/S2352711025002791
+KW  - Power Usage Effectiveness
+KW  - Deep Learning
+KW  - Data center optimization
+KW  - Digital twins
+AB  - As digital transformation accelerates, data centers have become critical infrastructure, supporting cloud services, artificial intelligence, and real-time applications. This increasing demand has led to significant growth in energy consumption, raising concerns about operational costs and environmental impact. Power Usage Effectiveness (PUE) is the prevailing metric used to assess energy efficiency in data centers, yet optimizing PUE remains a complex and highly site-specific challenge. While prior research has explored the use of machine learning and control systems to reduce energy usage, most existing tools are narrowly focused, difficult to adapt across heterogeneous data center environments, or inaccessible to non-expert users. These limitations hinder the practical application of AI in dynamic and diverse operational contexts. This work introduces PULSE (PUE Unified Learning and Simulation Engine), a novel software platform that integrates deep learning-based prediction models with a natural language assistant to support PUE optimization in real-world settings. The platform fills a gap in current research by offering a user-friendly, modular, and adaptive solution that empowers operators to model, predict, and improve data center energy performance with minimal technical expertise. Results highlight PULSE’s ability to facilitate accessible, data-driven decision-making while adapting to unique infrastructure profiles. PULSE contributes to more intelligent, sustainable, and operationally efficient data center management.
+ER  - 
+
+TY  - JOUR
+T1  - Battery field data and why it matters: Foundations for real-world electric vehicles
+AU  - Kim, Kyunghyun
+AU  - Cho, Kyeongeun
+AU  - Lee, Kwangho
+AU  - Yoon, Junyoung
+AU  - Choi, Jung-Il
+JO  - eTransportation
+VL  - 26
+SP  - 100494
+PY  - 2025
+DA  - 2025/12/01/
+SN  - 2590-1168
+DO  - https://doi.org/10.1016/j.etran.2025.100494
+UR  - https://www.sciencedirect.com/science/article/pii/S2590116825001018
+KW  - Electric vehicles
+KW  - Battery management system
+KW  - Field data
+KW  - Real-world applications
+AB  - The traditional paradigm of battery research, primarily rooted in controlled laboratory experiments, is being fundamentally reshaped by the influx of real-world field data. Although laboratory tests remain indispensable for isolating specific electrochemical mechanisms, they fall short of capturing the complex phenomena that arise under practical operating conditions. Field data offers essential insights into this complexity by revealing the intricate interplay among dynamic loads, thermal transients, and path-dependent degradation—interactions often obscured in simplified test protocols. This discrepancy underscores a significant gap in understanding, highlighting that field data is not merely a validation tool, but a vital source for uncovering new physics governing battery performance and aging in realistic environments. Harnessing this potential requires addressing critical challenges—from data quality and privacy to the integration of emerging methodologies in feature engineering, fleet analytics, and physics-informed machine learning. This review surveys large-scale fleet datasets alongside high-resolution vehicle- and cell-level measurements, and examines methodologies spanning state estimation, fault detection, and energy optimization. These developments collectively point to a paradigm shift in battery research—from passive diagnostics toward proactive lifecycle management. Ultimately, this trajectory leads to generalized battery foundation models: continuously evolving digital twins that actively shape, rather than merely predict, a battery’s entire lifecycle.
+ER  - 
+
+TY  - JOUR
+T1  - A demonstration of a digital twin framework for structural health monitoring: Application to bridge infrastructures
+AU  - Nasim, Maryam
+AU  - Rajabifard, Abbas
+AU  - Chen, Yiqun
+AU  - Samali, Bijan
+JO  - Journal of Infrastructure Intelligence and Resilience
+VL  - 5
+IS  - 1
+SP  - 100184
+PY  - 2026
+DA  - 2026/03/01/
+SN  - 2772-9915
+DO  - https://doi.org/10.1016/j.iintel.2025.100184
+UR  - https://www.sciencedirect.com/science/article/pii/S2772991525000477
+KW  - Structural health monitoring
+KW  - Digital twin
+KW  - Infrastructure resilience
+KW  - Bridge asset management
+KW  - Predictive maintenance
+KW  - Real-time monitoring
+AB  - This study introduces a novel, multi-layered Digital Twin (DT) framework designed to enhance the resilience of ageing bridge infrastructure through real-time structural health monitoring (SHM) and data-driven decision support. The proposed framework integrates physics-based Finite Element Modelling (FEM), drone-based photogrammetry, and wireless sensor networks to construct a dynamic digital representation of the physical asset. By continuously synchronising sensor data with virtual models, the system establishes a foundation for predictive maintenance and lifecycle optimisation. Key innovations include a modular architecture that supports the seamless integration of diverse data sources, a closed-loop feedback mechanism for iterative model updating, and functionality for real-time anomaly detection. The proposed system supports proactive monitoring by enabling dynamic condition tracking, structural behaviour analysis, and long-term trend forecasting. The framework has been demonstrated on an operational railway truss bridge, where live vibration and environmental data were used to calibrate and validate the DT in a real-world setting. The results underscore the system's potential as a robust and scalable monitoring solution for historically significant and ageing transport assets. This work addresses critical limitations of conventional SHM approaches by offering a unified, data-centric strategy for infrastructure management. Beyond operational awareness, the proposed DT platform provides a strategic pathway toward more intelligent, more sustainable infrastructure systems prioritising resilience, informed maintenance planning, and future adaptability.
+ER  - 
+
+TY  - JOUR
+T1  - Digital twin intelligent system for industrial internet of things-based big data management and analysis in cloud environments
+AU  - Stergiou, Christos L.
+AU  - Psannis, Kostas E.
+JO  - Virtual Reality & Intelligent Hardware
+VL  - 4
+IS  - 4
+SP  - 279
+EP  - 291
+PY  - 2022
+DA  - 2022/08/01/
+T2  - Virtual-reality and intelligent hardware in digital twins A)
+SN  - 2096-5796
+DO  - https://doi.org/10.1016/j.vrih.2022.05.003
+UR  - https://www.sciencedirect.com/science/article/pii/S2096579622000444
+KW  - Machine learning
+KW  - IoT
+KW  - Big data
+KW  - Cloud computing
+KW  - Management
+KW  - Analytics
+KW  - Digital twin Scenario
+KW  - Energy efficiency
+AB  - This work surveys and illustrates multiple open challenges in the field of industrial Internet of Things (IoT)-based big data management and analysis in cloud environments. Challenges arising from the fields of machine learning in cloud infrastructures, artificial intelligence techniques for big data analytics in cloud environments, and federated learning cloud systems are elucidated. Additionally, reinforcement learning, which is a novel technique that allows large cloud-based data centers, to allocate more energy-efficient resources is examined. Moreover, we propose an architecture that attempts to combine the features offered by several cloud providers to achieve an energy-efficient industrial IoT-based big data management framework (EEIBDM) established outside of every user in the cloud. IoT data can be integrated with techniques such as reinforcement and federated learning to achieve a digital twin scenario for the virtual representation of industrial IoT-based big data of machines and room temperatures. Furthermore, we propose an algorithm for determining the energy consumption of the infrastructure by evaluating the EEIBDM framework. Finally, future directions for the expansion of this research are discussed.
+ER  - 
+
+TY  - JOUR
+T1  - Digital Representation of Patients as Medical Digital Twins: Data-Centric Viewpoint
+AU  - Demuth, Stanislas
+AU  - De Sèze, Jérôme
+AU  - Edan, Gilles
+AU  - Ziemssen, Tjalf
+AU  - Simon, Françoise
+AU  - Gourraud, Pierre-Antoine
+JO  - JMIR Medical Informatics
+VL  - 13
+PY  - 2025
+DA  - 2025/01/01/
+SN  - 2291-9694
+DO  - https://doi.org/10.2196/53542
+UR  - https://www.sciencedirect.com/science/article/pii/S2291969425000195
+KW  - digital twin
+KW  - artificial intelligence
+KW  - data architecture
+KW  - synthetic data
+KW  - computational modeling
+KW  - precision medicine
+KW  - conceptual clarification
+KW  - conceptual
+KW  - patient
+KW  - medicine
+KW  - health record
+KW  - digital records
+KW  - synthetic patient
+AB  - Precision medicine involves a paradigm shift toward personalized data-driven clinical decisions. The concept of a medical “digital twin” has recently become popular to designate digital representations of patients as a support for a wide range of data science applications. However, the concept is ambiguous when it comes to practical implementations. Here, we propose a medical digital twin framework with a data-centric approach. We argue that a single digital representation of patients cannot support all the data uses of digital twins for technical and regulatory reasons. Instead, we propose a data architecture leveraging three main families of digital representations: (1) multimodal dashboards integrating various raw health records at points of care to assist with perception and documentation, (2) virtual patients, which provide nonsensitive data for collective secondary uses, and (3) individual predictions that support clinical decisions. For a given patient, multiple digital representations may be generated according to the different clinical pathways the patient goes through, each tailored to balance the trade-offs associated with the respective intended uses. Therefore, our proposed framework conceives the medical digital twin as a data architecture leveraging several digital representations of patients along clinical pathways.
+ER  - 
+
+TY  - JOUR
+T1  - Digital twin-assisted intelligent anomaly detection system for Internet of Things
+AU  - Bolat-Akça, Burcu
+AU  - Bozkaya-Aras, Elif
+JO  - Ad Hoc Networks
+VL  - 158
+SP  - 103484
+PY  - 2024
+DA  - 2024/05/01/
+SN  - 1570-8705
+DO  - https://doi.org/10.1016/j.adhoc.2024.103484
+UR  - https://www.sciencedirect.com/science/article/pii/S1570870524000957
+KW  - Internet of Things
+KW  - Anomaly detection
+KW  - Digital twin
+KW  - Edge computing
+KW  - Self-organizing networks
+KW  - Self-healing networks
+AB  - The proliferation of Internet of Things (IoT) devices within the cyber–physical infrastructure has raised privacy and security concerns. This is because processing large amounts of data and extracting anomalous data cannot be imprecisely identified with the limited storage and processing capabilities of IoT devices. Against this backdrop, edge computing is a networking paradigm to reshape the next generation of IoT-based applications, which brings computation and data storage closer to the data sources. However, since edge servers are difficult to obtain security protections like in centralized data centers, this makes them more vulnerable to security attacks. To address this issue, we propose a novel digital twin system architecture in edge computing-based Internet of Things (IoT) networks, which allows efficient data processing for anomaly detection at the network edge. Digital twin is a replica of the real world in a virtual environment with continuous information exchange. Our digital twin-assisted solution gives a data-driven strategy against the cell outage and simulates the behavior and patterns of the physical assets in the digital world. Powered by data processing capabilities at the network edge, the proposed digital twin-assisted model can help extract features and behaviors, reduce noise from data generated in the network physical model, and filter out redundant data for a better characterization of the network physical model in the anomaly detection service. To this extent, the contributions in this paper are threefold: We first propose a novel digital twin-assisted anomaly detection framework that processes high-dimensional data efficiently and improves the system performance despite the imbalanced classes. Second, we define an autoencoder-based threshold algorithm and evaluate the eXtreme Gradient Boosting (XGBoost) classifier to implement self-learning capability into the digital twin for an accurate prediction. Third, we extract the features, dependencies, and relationships to apply the learned model to the new and unseen dataset for real-time monitoring and optimization and evaluate the performance of the proposed model with both real-time and historical data. Finally, we analyze the performance of different classifiers to validate our model. We use four different datasets and demonstrate that our solution outperforms the state-of-the-art techniques in terms of accuracy performance, AUC score, and ROC curve.
+ER  - 
+
+TY  - JOUR
+T1  - Data-centric Engineering: integrating simulation, machine learning and statistics. Challenges and opportunities
+AU  - Pan, Indranil
+AU  - Mason, Lachlan R.
+AU  - Matar, Omar K.
+JO  - Chemical Engineering Science
+VL  - 249
+SP  - 117271
+PY  - 2022
+DA  - 2022/02/15/
+SN  - 0009-2509
+DO  - https://doi.org/10.1016/j.ces.2021.117271
+UR  - https://www.sciencedirect.com/science/article/pii/S0009250921008368
+KW  - Digital twins
+KW  - Artificial Intelligence
+KW  - CFD
+KW  - FEM
+KW  - Data-centric Engineering
+KW  - SimOps
+AB  - Recent advances in machine learning, coupled with low-cost computation, availability of cheap streaming sensors, data storage and cloud technologies, has led to widespread multi-disciplinary research activity with significant interest and investment from commercial stakeholders. Mechanistic models, based on physical equations, and purely data-driven statistical approaches represent two ends of the modelling spectrum. New hybrid, data-centric engineering approaches, leveraging the best of both worlds and integrating both simulations and data, are emerging as a powerful tool with a transformative impact on the physical disciplines. We review the key research trends and application scenarios in the emerging field of integrating simulations, machine learning, and statistics. We highlight the opportunities that such an integrated vision can unlock and outline the key challenges holding back its realisation. We also discuss the bottlenecks in the translational aspects of the field and the long-term upskilling requirements for the existing workforce and future university graduates.
+ER  - 
+
+TY  - JOUR
+T1  - CAPER: Dual-level physics-data fusion with modular metamodels for reliable generalization in predictive digital twins
+AU  - Zhang, Qingang
+AU  - Long, Wenjun
+AU  - Wang, Ruihang
+AU  - Cao, Zhiwei
+AU  - Wang, Zhaoyang
+AU  - Yan, Yuejun
+AU  - Wen, Yonggang
+JO  - Applied Energy
+VL  - 398
+SP  - 126393
+PY  - 2025
+DA  - 2025/11/15/
+SN  - 0306-2619
+DO  - https://doi.org/10.1016/j.apenergy.2025.126393
+UR  - https://www.sciencedirect.com/science/article/pii/S0306261925011237
+KW  - Data center
+KW  - Predictive digital twin
+KW  - Cooling system optimization
+KW  - Physics-informed machine learning
+KW  - Data-driven modeling
+AB  - Digital twins enable Artificial Intelligence (AI)-driven decision-making in mission-critical infrastructures such as data centers by leveraging advanced predictive capabilities. However, deploying predictive digital twins in a data center presents significant challenges, particularly in ensuring real-time updates and reliable dynamic predictions. Existing approaches capable of capturing complex system characteristics, ensuring predictive accuracy on unseen datasets, and balancing computational overhead remain lacking. This paper proposes a dual-level physics-data fusion framework that synergistically fuses physics-based and data-driven methods. The framework employs system decomposition and modular metamodeling to reduce sampling requirements and improve complex parameter search efficiency. Experimental validation demonstrates that the Coefficient of Variation of the Root-Mean-Square Error (CV-RMSE) remains below 15 % for most features, outperforming baseline methods where individual feature errors range from 40 % to 100 %. The single-time calibration completes within the typical 15-minute sampling interval in cooling systems, thereby enabling real-time updates. By seamlessly integrating the extrapolation capabilities of physics-based models with the adaptability of Machine Learning (ML), the framework achieves high predictive accuracy in both interpolation and extrapolation tasks. The adaptation process further reduces the Mean Absolute Error (MAE) by up to 93 % compared to the Baseline. Furthermore, the fusion-based system dynamics model effectively simulates multi-stage heat transfer processes, integrating system-level thermodynamic interactions with module-level metamodels. This framework demonstrates significant potential to enhance digital twin applications, optimize data center energy efficiency, and address broader engineering challenges.
+ER  - 
+
+TY  - JOUR
+T1  - Multi-domain data integration and management for enhancing service-oriented digital twin for infrastructure operation and maintenance
+AU  - Liu, Liu
+AU  - Zeng, Ningshuang
+AU  - Liu, Yan
+AU  - Han, Daguang
+AU  - König, Markus
+JO  - Developments in the Built Environment
+VL  - 18
+SP  - 100475
+PY  - 2024
+DA  - 2024/04/01/
+SN  - 2666-1659
+DO  - https://doi.org/10.1016/j.dibe.2024.100475
+UR  - https://www.sciencedirect.com/science/article/pii/S266616592400156X
+KW  - Digital twin
+KW  - Multi-domain data integration
+KW  - Service-oriented design
+KW  - Infrastructure
+KW  - Operation and maintenance
+AB  - The evolution from Building Information Modelling (BIM) to Digital Twins (DT) marks a shift from static models to dynamic data-centric representations. Using DT can improve Infrastructure Operation and Maintenance (IOM) through prompt and comprehensive data, especially by providing services and value-added features. However, developing this service-oriented digital twin (SoDT) for IOM faces challenges due to data heterogeneity, fragmentation, and interoperability issues across various systems used by different asset authorities. This paper develops a service-oriented digital twin framework for IOM (SoDT-IOM), which focuses on multi-domain data integration and IOM service-oriented design. Service-oriented DT components and data integration mechanisms are developed, and an individual-multiple interacted data repository for IOM services is designed. Two-stage industrial interviews are conducted, and two use cases are illustrated to evaluate the functionality and efficacy of the framework. The evaluation results reveal that implementing a SoDT-IOM framework encounters challenges related to cost and data security; however, it is appreciated for its capacity to improve decision-making and collaboration with linked, accurate and timely data. This paper proposes further design requirements and implementation recommendations for SoDT of asset management from both technical and managerial perspectives.
+ER  - 
